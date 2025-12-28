@@ -13,7 +13,7 @@ MeeshoMitra is an intelligent e-commerce search application featuring a modern R
 *   **Framework:** React
 *   **Build Tool:** Vite
 *   **Language:** JavaScript
-*   **Styling:** Tailwind CSS & shadcn/ui
+*   **Styling:** Tailwind CSS 
 *   **UI Components:** Radix UI
 *   **Routing:** React Router DOM
 *   **API Communication:** TanStack Query (React Query)
